@@ -99,7 +99,7 @@ for epoch in range(num_epochs):
         pic = vectors_to_images(output.data)
         save_image(pic,'./VAE_IMGs/vae_img_{}.png'.format(epoch),nrow=20)
 
-torch.save(model.state_dict(), './sim_autoencoder.pth')
+torch.save(vae_net.state_dict(), './sim_autoencoder.pth')
 
 
 
