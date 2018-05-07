@@ -16,7 +16,7 @@ Autoencoder Networks
 #### Convolutional Autoencoder on CIFAR10
 
   <p align="center">
-    <img width="750" src="https://github.com/OakLake/Autoencoders_AI/blob/master/imgs/cae_img_991.png"/>
+    <img width="1000" src="https://github.com/OakLake/Autoencoders_AI/blob/master/imgs/cae_img_991.png"/>
   </p>
   
 epoch: 991, trained on CPU, need to train on GPU for better results!
