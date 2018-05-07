@@ -20,4 +20,5 @@ Autoencoder Networks
   </p>
   
 ...............................................^ Plane :)...........
+
 epoch: 991, trained on CPU, need to train on GPU for better results!
