@@ -19,4 +19,5 @@ Autoencoder Networks
     <img width="1000" src="https://github.com/OakLake/Autoencoders_AI/blob/master/imgs/cae_img_991.png"/>
   </p>
   
+...............................................^ Plane :)...........
 epoch: 991, trained on CPU, need to train on GPU for better results!
